@@ -1,0 +1,5 @@
+### Task 2.2 — Safety Practice Questions
+* **Difference between replacing and adding text:** Replacing overwrites everything inside the file from scratch, while adding attaches the new text to the end of what was already there.
+* **Difference between copying and moving:** Copying leaves the original file alone and builds a twin. Moving transfers the file to a completely new home or gives it a new name.
+* **What current-directory display provides:** It acts like a digital map coordinate showing your precise folder location.
+* **Why directory listing is useful:** It lets you see all your files instantly without clicking around visually.
