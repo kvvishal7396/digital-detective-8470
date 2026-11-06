@@ -13,6 +13,7 @@ ProductVersion:		27.2|
 ## 3.2 Understanding Processes
 **What is a Process**-Basically,a process is a program that is being executed on a computer at the moment.
 **What does PID column represent**-A PID is process ID its a unique identication number given by a computer to a program that is currently being executed to keep a track of it.Example:-(25384 ttys001    0:01.99 -zsh)
+
 **Give two examples of processes that may be running on your computer**- current process running on my computer **Google Chrome** and **VScode**
 
 ## 3.3 learning the differences between Actual Path and Relative Path
