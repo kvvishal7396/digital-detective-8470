@@ -4,28 +4,45 @@
 ## 5.1 Converting numbers by hand-
 
 **Convert decimal 13 to binary**
+
 13 ÷ 2 = 6(remainder 1)
+
 6 ÷ 2 = 3(remainder 0)
+
 3 ÷ 2 = 1(remainder 1)
+
 1 ÷ 2 = 0(remainder 1)
+
 **Therefore,The binary representation of 13 is,** 1101
 
 **Convert decimal 25 to binary**
+
 25 ÷ 2 = 12(remainder 1)
+
 12 ÷ 2 = 6(remainder 0)
+
 6 ÷ 2 = 3(remainder 0)
+
 3 ÷ 2 = 1(remainder 1)
+
 1 ÷ 2 = 0(remainder 1)
+
 **Therefore,The binary representation of 25 is,** 11001
 
 **Convert binary 1010 to decimal**
+
 (1 * 8) + (0 * 4) + (1 * 2) + (0 * 1)
+
 => 8 + 2 = 10
+
 **Therefore,The decimal representation of 1010 is,** 10
 
 **Convert binary 1101 to decimal**
+
 (1 * 8) + (1 * 4) + (0 * 2) + (1 * 1)
+
 => 8 + 4 + 1 = 13
+
 **Therefore,The decimal representation of 1101 is,** 13
 
 **Convert hexadecimal A to decimal**
