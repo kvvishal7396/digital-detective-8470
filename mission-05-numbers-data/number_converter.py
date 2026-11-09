@@ -1,0 +1,6 @@
+dec = input("Enter a decimal number: ")
+inte = int(dec)
+binary = bin(inte)
+hexadecimal = hex(inte) 
+print("Binary representation:", binary[2:])
+print("Hexadecimal representation:", hexadecimal[2:])
