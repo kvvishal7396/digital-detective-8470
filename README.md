@@ -19,3 +19,10 @@ MISSION INDEX:
 * [Mission 8: Final Review and Submission](./mission-08-final-report/)
 
 each mission bove is completed and commited seperately.
+
+
+## My Learning
+* I understand how to use simple text commands in CLI(command-line interface),which helps me to know abt my computer better.
+* I understand the need foir numbers numbers and how do computers understand number system like binary and i learned how to convert numbers into different bases like decimal,binary  and hexadecimal.
+* I leaned about the different components of a computer like hardware,software and the different between application software and system software.
+
