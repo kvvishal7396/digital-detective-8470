@@ -33,3 +33,11 @@ STRUCTURE CREATED:
 A repository is a digital project folder that tracks every single save point and file change over time using version control. Organizing it by separate mission folders ensures that each part of the assignment stays clean, structured, and easy to review without mixing up different tasks
 
 Setiing up folders and connecting to git was a bit challenging and other than it it was pretty easy
+
+## Evidence / files
+* Root `README.md`
+* 9 empty mission tracking folders (`mission-00-setup` through `mission-08-final-report`)
+* Empty `evidence/` directory
+
+## Commit details
+* **Commit Message:** "Set up Digital Detective mission structure"

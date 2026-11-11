@@ -29,3 +29,11 @@ pipe (|) takes output from the command on the left and gives it as an input to t
 * **version of homebrew**-Homebrew 7.0.11
 *a package manager is like an app-store for packages where we update,download or remove them 
 *it uses simple text commands instead of going into websites adn updating or removing or installing them.
+
+
+## Evidence / files
+* `terminal-practice/` sandbox folder.
+* `mission-02-terminal/README.md`
+
+## Commit details
+* **Commit Message:** "Complete Terminal and file management mission"

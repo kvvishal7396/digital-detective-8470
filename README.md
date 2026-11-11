@@ -1,11 +1,23 @@
-Digital-detective-8470 
+# Digital-detective-8470 
 
-description:learning about system fundamentals,terminal operations and better understanding about OS,Data Representation
+## description: 
+* **An individual learning assignment which helped in exploring how computers work, command-line operations, operating systems, number systems, Git version control, and computer networking.**
 
-MY INFORMATION:
 
-NAME:Venkata Vishaleswar Reddy Kandula
-USN:2392608470
+
+## Student Information
+* **Name:** Venkata Vishaleswar Reddy Kandula
+* **Campus / Section:** Newton School of Technology (NST),S-VYASA (Deemed to be university)
+* **GitHub Repository:** digital-detective-8470
+
+## Topics Explored
+* Computer fundamentals and the IPOS (Input, Processing, Output, Storage) cycle
+* Terminal navigation, file management, flags, pipes, and package managers
+* Operating system responsibilities, running processes, file paths, and permissions
+* Program execution, compilers vs. interpreters, and basic Python scripting
+* Binary, decimal, and hexadecimal conversions.
+* Version control workflows using Git branches and GitHub Pull Requests
+* Network types (LAN, MAN, WAN), DNS lookups, protocols, and website loading steps
 
 MISSION INDEX:
 * [Mission 0: Repository and Workspace Setup](./mission-00-setup/)
@@ -19,6 +31,17 @@ MISSION INDEX:
 * [Mission 8: Final Review and Submission](./mission-08-final-report/)
 
 each mission bove is completed and commited seperately.
+
+## How to Run the Number Converter in my mission 5:
+To run the Python number converter from Mission 5, open your Terminal inside this repository and run:
+
+
+```bash
+cd mission-05-numbers-data
+python3 number_converter.py
+```
+
+**Note**: you can enter any positive real number and it will show you the corresponding binary and hexadecimal values.
 
 
 ## My Learning

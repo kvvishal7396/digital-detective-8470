@@ -38,3 +38,10 @@ Understanding how an OS works,differences between paths,exploring file permissio
 **Difficulties faced and understandings**
 
 getting through the commands which help in knowing about OS was a bit challengiong and also finding pid was also a bit challenging ,other than that it was a pretty good learning.
+
+
+##  Evidence / files
+* `mission-03-operating-system/README.md`
+
+##  Commit details
+* **Commit Message:** "Document operating system and file management"

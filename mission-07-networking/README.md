@@ -59,3 +59,8 @@
 ->  It showed me the Web server address,Name of the website and the IP address of tht website.
 
 
+##  Evidence / files
+* `mission-07-networking/README.md`
+
+##  Commit details
+* **Commit Message:** "Explain networking concepts and website communication"

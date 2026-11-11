@@ -32,4 +32,11 @@ I learned that computers can't read code directly until it is translated. Compil
 
 
 **Difficulties faced**
-learing about compilers and interpreters was a bit challenging,other than that it was easy
+learing about compilers and interpreters was a bit challenging,other than that it was easy.
+
+##  Evidence / files
+* `hello.py`
+* `mission-04-programs/README.md`
+
+##  Commit details
+* **Commit Message:** "Compare compilers and interpreters"

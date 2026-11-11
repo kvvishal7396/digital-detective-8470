@@ -49,3 +49,10 @@ it downloads the updates from github to my local computer.
 * No major difficulties
 
 # Complete Git and GitHub collaboration mission.
+
+##  Evidence / files
+* `mission-06-git-github/README.md`
+* Branch `update-about` and Pull Request on GitHub.
+
+##  Commit details
+* **Commit Message:** "Complete Git and GitHub collaboration mission"
